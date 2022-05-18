@@ -12,4 +12,4 @@
 7. (check-point 3) simple flask web
     * return 'hello world'
     * return "<h1>hello world big font</h1>
-    * return app.send_static_file('index.hmtl')--> remerber to create static/index.html
+    * return app.send_static_file('index.hmtl')--> remember to create static/index.html
