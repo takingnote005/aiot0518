@@ -1,4 +1,4 @@
-# Homework #5  IoT Flask Web (github, vs code)
+# Ching-yi Homework #5  IoT Flask Web (github, vs code)
 ## Lecture 13: IoT Flask Web (github, vs code)
 ### Environment setup
 1. Please install vs code, register github, install git for windows
