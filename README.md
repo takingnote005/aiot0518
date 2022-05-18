@@ -11,5 +11,5 @@
 6. (check-point 2) to upload local file to github from local terminal 
 7. (check-point 3) simple flask web
     * return 'hello world'
-    * return "<h1>hello world big font</h1>
+    * return "<h1>hello world big font</h1>"
     * return app.send_static_file('index.hmtl')--> remember to create static/index.html
